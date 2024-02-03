@@ -1,4 +1,6 @@
-Learning Git commands
+Git commands
+
+git branch branchname
 
 git init
 git add .
