@@ -3,7 +3,10 @@ package gitCmmand;
 public class LearnGit {
 
 	public static void main(String[] args) {
-		System.out.println("learning mergeconflict");
+
+		
+		System.out.println("Learning Git");
+
 	}
 
 }
