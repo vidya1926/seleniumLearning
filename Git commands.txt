@@ -1,2 +1,4 @@
-Learning Git commands
+Git commands
+
+git branch branchname
 
