@@ -11,7 +11,7 @@ public class LearnGit {
 		System.out.println(i+j);
 
 		//LearnCollation with git
-		System.out.println("Learning Merge Conflict");
+		System.out.println("Learning Merge Conflicts");
 
 	}
 
