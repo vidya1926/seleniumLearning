@@ -3,8 +3,11 @@ package gitCmmand;
 public class LearnGit {
 
 	public static void main(String[] args) {
-		//Commen t statements
+		//Comment statements
 		System.out.println("Learning Git Commands");
+		int i=10;
+		int j=10;
+		System.out.println(i+j);
 
 	}
 
