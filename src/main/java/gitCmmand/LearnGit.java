@@ -10,7 +10,7 @@ public class LearnGit {
 		int j=10;
 		System.out.println(i+j);
 
-
+		//LearnCollation with git
 		System.out.println("Learning Merge Conflict");
 
 	}
